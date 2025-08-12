@@ -21,6 +21,9 @@ I'm an aspiring **Full Stack Web Developer** with a focus on building responsive
 ![AngularJS](https://img.shields.io/badge/AngularJS-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
+
 
 ---
 
@@ -64,20 +67,12 @@ Frontend clone of Amazon’s homepage to practise layout using flexbox and seman
 
 ## 📫 Connect with me
 - GitHub: https://github.com/shahidali04  
-- LinkedIn: https://www.linkedin.com/in/shahidali04 (update if different)  
+- LinkedIn: https://www.linkedin.com/in/shahidali04
 - Email: shahid19012004@gmail.com
 
 ---
 
-## ⭐ Tips to make this profile better
-1. **Pin 4–6 best repos** (the ones that show real work, README, screenshots).  
-2. **Add screenshots or GIFs** to each project repo — immediate impact for visitors.  
-3. **Write project READMEs** with: demo, tech, setup steps, and small architecture notes.  
-4. **Add a clean profile photo** and a short bio (1 line) on your profile.  
-5. **Contribute to open-source** or fix small issues in popular repos — good for visibility.  
-6. **Use Issues/PRs to document learning** (e.g., "fix: improve accessibility for X").  
-7. **Use GitHub Actions** for CI or to auto-generate project pages (optional).  
-8. **Keep commits readable**; meaningful commit messages look professional.  
+💖 Thank you for visiting my profile! Feel free to explore my repositories and connect with me — let’s build something amazing together!  
 
 ---
 
