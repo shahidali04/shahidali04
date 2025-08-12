@@ -2,14 +2,14 @@
 
 # Hi, I'm Shahid Ali 👋
 
-I'm an aspiring **Full Stack Web Developer** with a focus on building responsive, user-friendly frontends using **HTML, CSS, JavaScript** and **AngularJS**. I enjoy turning ideas into clean interfaces and learning new tools to improve performance and developer experience.
+I'm an aspiring **Full Stack Web Developer** with a focus on building responsive, user-friendly frontend and backend using **HTML, CSS, JavaScript, AngularJS** and **Java**. I enjoy turning ideas into clean interfaces and learning new tools to improve performance and developer experience.
 
 - 📍 Hardoi, U.P., India
 - 🎓 B.Tech — Computer Science & Engineering (Jahangirabad Institute of Technology)
-- 🔭 Currently building frontend projects and improving UI/UX skills
-- 🌱 Learning modern frontend frameworks & production workflows
+- 🔭 Currently building projects and improving skills
+- 🌱 Learning Java library - SpringBoot
 - 📫 Reach me: shahid19012004@gmail.com
-- ⚡ Fun fact: I love reading, poetry and travel!
+- ⚡ Fun fact: I love football, poetry and travel!
 
 ---
 
@@ -31,7 +31,7 @@ I'm an aspiring **Full Stack Web Developer** with a focus on building responsive
 
 - Built responsive web apps (To-Do list, Calculator, Travel site, Amazon clone).
 - Strong fundamentals in Data Structures, Databases and Software Engineering.
-- Comfortable with version control (Git & GitHub) and modern front-end tooling.
+- Comfortable with version control (Git & GitHub) and modern front-end and backend tooling.
 
 ---
 
@@ -57,11 +57,8 @@ Frontend clone of Amazon’s homepage to practise layout using flexbox and seman
 
 ## 📈 GitHub Stats
 
-<!-- Replace `shahidali04` with your GitHub username if needed -->
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=shahidali04&show_icons=true&theme=default&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidali04&layout=compact&theme=default)
-
-> If those images don't show, add this repo: https://github.com/anuraghazra/github-readme-stats (no setup required — just the image links above).
 
 ---
 
@@ -76,4 +73,3 @@ Frontend clone of Amazon’s homepage to practise layout using flexbox and seman
 
 ---
 
-*Want a tailored README with your project screenshots and personalized badges? I can generate one using your repo links and images — tell me which projects to feature and provide any screenshots you want included.*
